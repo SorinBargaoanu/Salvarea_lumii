@@ -1,11 +1,13 @@
+# Descriere
 
-# Joc tip text
-"Salvarea lumii"
+Acest proiect este un joc tip text, numit „Salvarea lumii”. Utilizatorul trebuie să rezolve 3 misiuni pentru a termina jocul.
 
-## Descriere:
+## Povestea jocului:
+
 Într-o lume unde timpul a uitat de om, dinozaurii trăiesc în pace și armonie și se adună pentru a juca un joc tradițional. Însă, vulcanul sacru a erupt și amenință lumea lor. Șase dinozauri curajoși încearcă să salveze lumea și au nevoie de ajutorul tău.
 
 ## Instalare și Rulare:
+
 1. Asigurați-vă că aveți Python instalat pe sistemul dvs.
 2. Instalați modulul `colorama` folosind `pip install colorama`.
 3. Rulați fișierul `textGame.py` folosind `python textGame.py`.
