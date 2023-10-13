@@ -1,5 +1,6 @@
 
 # Joc tip text
+"Salvarea lumii"
 
 ## Descriere:
 Într-o lume unde timpul a uitat de om, dinozaurii trăiesc în pace și armonie și se adună pentru a juca un joc tradițional. Însă, vulcanul sacru a erupt și amenință lumea lor. Șase dinozauri curajoși încearcă să salveze lumea și au nevoie de ajutorul tău.
@@ -13,7 +14,9 @@
 - **textGame.py**: Fișierul principal de executare. Acesta introduce jucătorul în atmosfera jocului și începe aventura.
 - **Inventory.py**: Servește ca un sistem de inventar, urmărind starea diferitelor misiuni și sub-misiuni.
 - **Strings.py**: Un depozit pentru stringurile din joc, oferind mesaje pentru diferitele etape ale jocului.
+- **Utils.py**: Conține funcții utilitare pentru a captura și valida intrările utilizatorului.
 
 ## Autor:
 Sorin Bărgăoanu
-# Salvarea_lumii
+
+Acest joc a fost creat ca un exercițiu pe care îl fac în paralel în timp ce citesc cartea "Captain Code. Unleash Your Coding Superpower with Python" de Ben Forta.
